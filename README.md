@@ -1,6 +1,6 @@
 # Voxel Prototype
 
-# Licenses: code: LGPL-2.1, media: CC BY-SA-4.0
+# Licenses: code: GPL-2.1, media: CC BY-SA-4.0
 ## this is a Godot game project: https://godotengine.org
 
 ![Screenshot](/screenshot.PNG)
