@@ -1,0 +1,30 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://ui.gd" type="Script" id=1]
+[ext_resource path="res://res/crosshair.png" type="Texture" id=2]
+
+[node name="ui" type="Control"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="crosshair" type="TextureRect" parent="."]
+margin_left = 60.1041
+margin_top = 207.182
+margin_right = 80.1041
+margin_bottom = 227.182
+texture = ExtResource( 2 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="screeninfo" type="Label" parent="."]
+margin_right = 108.0
+margin_bottom = 15.0
+rect_scale = Vector2( 2, 2 )
+text = "Pos:, Chunk ID:, Pointing at:"
+__meta__ = {
+"_edit_use_anchors_": false
+}
