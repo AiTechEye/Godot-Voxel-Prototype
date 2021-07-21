@@ -2,8 +2,10 @@
 
 # Licenses: code: GPL-2.0, media: CC BY-SA-4.0
 ## this is a Godot game project: https://godotengine.org
-
+## Version 2: https://github.com/AiTechEye/Mineshafts-prototype2
 ### This is what is done with it: https://youtu.be/PQk8aqcGZnc
+
+
 
 
 ![Screenshot](/screenshot.PNG)
@@ -19,7 +21,7 @@
 
 |Action|Control|
 |----|----|
-|Move|A,S,D,W,S|
+|Move|A,S,D,W|
 |Jump|Space|
 Fly/Walk mode|F|
 Fly up/down|Q,E|
